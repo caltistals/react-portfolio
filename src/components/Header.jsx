@@ -19,7 +19,7 @@ const Header = () => {
                 </li>
                 <li>
                     <IconContext.Provider value = {{size: "30px"}}>
-                        <a class = "githubicon" href="https://github.com/caltistals" target="_blank"><FaGithub/></a>
+                        <a class = "githubicon" href="https://github.com/caltistals" target="_blank" rel="noopener"><FaGithub/></a>
                     </IconContext.Provider>
                 </li>
                 

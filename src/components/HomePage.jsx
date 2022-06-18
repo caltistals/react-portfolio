@@ -35,7 +35,7 @@ const HomePage = () => {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-dumbbell fa-stack-1x fa-inverse"></i>
                 </span>
-                <a href="https://github.com/caltistals/workout-memo-react-firebase" target="_blank">
+                <a href="https://github.com/caltistals/workout-memo-react-firebase" target="_blank" rel="noopener">
                 <h4 class="my-3">ワークアウト記録アプリ</h4>
                 </a>
                 <p class="text-muted">
@@ -50,7 +50,7 @@ const HomePage = () => {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                 </span>
-                <a href="https://github.com/caltistals/react-portfolio" target="_blank">
+                <a href="https://github.com/caltistals/react-portfolio" target="_blank" rel="noopener">
                 <h4 class="my-3">ポートフォリオサイト</h4>
                 </a>               
                 <p class="text-muted">
@@ -65,7 +65,7 @@ const HomePage = () => {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-umbrella fa-stack-1x fa-inverse"></i>
                 </span>
-                <a href="https://github.com/Kissa0330/rain_reminder" target="_blank">
+                <a href="https://github.com/Kissa0330/rain_reminder" target="_blank" rel="noopener">
                 <h4 class="my-3">傘知らせるくん</h4>
                 </a>      
                 <p class="text-muted">
